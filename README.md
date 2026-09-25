@@ -62,6 +62,7 @@ no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 </td>
 </tr>
 </table>
+
 ## HABILIDADES TÉCNICAS —  Mi caja de herramientas
 
 <details>
