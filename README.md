@@ -42,9 +42,9 @@ no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 
 ### I. Arena Vital
 
-*Uno de mis primeros proyectos, de mediados de 1º de DAW. Sin responsive todavía — una foto fiel de cómo empecé.*
+*Uno de mis primeros proyectos, de mediados de 1º de DAW. Sin responsive todavía — una foto fiel de cómo empecé. JavaScript implementado de otra persona solo adaptado a la web*
 
-`HTML` `CSS`
+`HTML` `CSS``JavaScript`
 
 **[→ Leer más](https://luar2604.github.io/luar.github.io/)**
 
@@ -55,7 +55,7 @@ no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 
 *Proyecto del módulo de Lenguajes de Marcas de 1º de DAW. Una web de fan dedicada a Morat.*
 
-`HTML` `CSS`
+`HTML` `CSS` `JavaScript`
 
 **[→ Leer más](https://luar2604.github.io/morat-fan-web/)**
 
