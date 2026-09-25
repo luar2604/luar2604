@@ -102,14 +102,6 @@ no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 </details>
 
 <br>
-<details>
-<summary><strong>Lo que uso a diario</strong></summary>
-<br>
-
-`HTML`&nbsp; `CSS`&nbsp; `JavaScript`&nbsp; `Java`
-
-</details>
-<br>
 
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
