@@ -141,7 +141,7 @@ Escribiendo y hablando me defiendo un poco, aunque me cuesta mas que leer.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<sub>raulblanque65@gmail.com &nbsp;·&nbsp; @luar2604 &nbsp;·&nbsp; linkedin proximamente</sub>
+<sub>raulblanque65@gmail.com &nbsp;·&nbsp; @luar2604 &nbsp;·&nbsp;[Instagram](https://instagram.com/akabadlu4r_05) &nbsp;  linkedin proximamente</sub>
 
 <sub>*No hay nada mas sobre mi se ira actualizando segun vaya avanzando*</sub>
 
