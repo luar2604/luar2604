@@ -42,7 +42,7 @@ no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 
 ### I. Arena Vital
 
-*Uno de mis primeros proyectos, de mediados de 1º de DAW. Sin responsive todavía — una foto fiel de cómo empecé. JavaScript implementado de otra persona solo adaptado a la web*
+*Uno de mis primeros proyectos, de mediados de 1º de DAW. Sin responsive. JavaScript implementado de otra persona solo adaptado a la web*
 
 `HTML` `CSS``JavaScript`
 
