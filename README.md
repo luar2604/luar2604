@@ -27,7 +27,7 @@ de frameworks. Todavía no tengo claro dónde me voy a especializar, pero eso
 no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 
 Inglés a nivel básico lo justo para leer documentación y tirar para adelante.<br>
-Escribiendo y hablando me defiendo un poco, aunque todavía me queda margen de mejora.
+Escribiendo y hablando me defiendo un poco, aunque me cuesta mas que leer.
 
 <sub>*"Todavia hay tiempo de sobra para decidir."*</sub>
 
