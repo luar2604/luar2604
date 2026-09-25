@@ -26,6 +26,8 @@ Ando dando mis primeros pasos con Python y C++, y muy pronto entro en la etapa
 de frameworks. Todavía no tengo claro dónde me voy a especializar, pero eso
 no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 
+Inglés a nivel básico — lo justo para leer documentación y tirar para adelante.
+
 <sub>*"Todavia hay tiempo de sobra para decidir."*</sub>
 
 <br>
