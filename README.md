@@ -134,8 +134,8 @@ no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<sub>correo@ejemplo.com &nbsp;·&nbsp; @usuario &nbsp;·&nbsp; linkedin.com/in/raul</sub>
+<sub>raulblanque65@gmail.com &nbsp;·&nbsp; @luar2604 &nbsp;·&nbsp; linkedin proximamente</sub>
 
-<sub>*Fin de la edición*</sub>
+<sub>*No hay nada mas sobre mi se ira actualizando segun vaya avanzando*</sub>
 
 </div>
