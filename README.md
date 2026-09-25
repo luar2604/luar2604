@@ -40,29 +40,28 @@ no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 <tr>
 <td width="50%" valign="top">
 
-### I. Nombre del proyecto
+### I. Arena Vital
 
-*Proximamente*
+*Uno de mis primeros proyectos, de mediados de 1º de DAW. Sin responsive todavía — una foto fiel de cómo empecé.*
 
+`HTML` `CSS`
 
 **[→ Leer más](#)**
 
 </td>
 <td width="50%" valign="top">
 
-### II. Nombre del proyecto
+### II. Morat Fan Web
 
-*Proximamente.*
+*Proyecto del módulo de Lenguajes de Marcas de 1º de DAW. Una web de fan dedicada a Morat.*
 
+`HTML` `CSS`
 
-
-**[→ Leer más](#)**
+**[→ Leer más](https://github.com/luar2604/morat-fan-web)**
 
 </td>
 </tr>
 </table>
-
-<br>
 
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
