@@ -68,13 +68,20 @@ no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 
 <br>
 
-## CLASIFICADOS — Herramientas del oficio
+## HABILIDADES TÉCNICAS —  Mi caja de herramientas
 
 <details>
 <summary><strong>Lo que uso a diario</strong></summary>
 <br>
 
-`HTML`&nbsp; `CSS`&nbsp; `JavaScript`&nbsp; `Java`
+`HTML`&nbsp; `CSS`&nbsp; `JavaScript`&nbsp; `Java`&nbsp; `PHP`
+
+</details>
+<details>
+<summary><strong>E-commerce & Integraciones Backend</strong></summary>
+<br>
+
+`PHP`&nbsp; `Symfony `&nbsp; `Shopify `&nbsp; `REST/GraphQL APIs`&nbsp; `WordPress  `
 
 </details>
 
@@ -82,7 +89,7 @@ no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 <summary><strong>Lo que estoy aprendiendo</strong></summary>
 <br>
 
-`Python`&nbsp; `C++`
+`Python`&nbsp; `C++`&nbsp; `HTML`&nbsp; `CSS`&nbsp; `JavaScript`&nbsp; `Java`&nbsp; `PHP`
 
 </details>
 
@@ -94,6 +101,14 @@ no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 
 </details>
 
+<br>
+<details>
+<summary><strong>Lo que uso a diario</strong></summary>
+<br>
+
+`HTML`&nbsp; `CSS`&nbsp; `JavaScript`&nbsp; `Java`
+
+</details>
 <br>
 
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
