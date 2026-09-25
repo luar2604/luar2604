@@ -4,7 +4,8 @@
 
 # ⸻Raul Blanque Martinez⸻
 
-<sub>EDICIÓN Nº 01 &nbsp;·&nbsp; DESARROLLO WEB &nbsp;·&nbsp; DISTRIBUCIÓN GRATUITA</sub>
+<sub>EDICIÓN Nº 01 &nbsp;·&nbsp; DESARROLLO WEB &nbsp;·&nbsp; text = "\u3164" * 21
+print(f"Length: {len(text)}")</sub>
 
 <br>
 
