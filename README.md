@@ -21,9 +21,11 @@
 ## PORTADA — Sobre mí
 
 **Raúl, 21 años, terminando el ciclo de Desarrollo de Aplicaciones Web.**
-Cada día trabajo con HTML, CSS, JavaScript y Java — mi rutina, mi terreno conocido.
-Ando dando mis primeros pasos con Python y C++, y muy pronto entro en la etapa
-de frameworks. Todavía no tengo claro dónde me voy a especializar, pero eso
+Cada día trabajo con HTML, CSS, JavaScript y Java 
+<br>
+Mi rutina, mi terreno conocido.
+Ando dando mis primeros pasos con Python y C++ por mi cuenta, y muy pronto entrare en la etapa
+de frameworks en Daw. Todavía no tengo claro dónde me voy a especializar, pero eso
 no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 
 Inglés a nivel básico lo justo para leer documentación y tirar para adelante.<br>
