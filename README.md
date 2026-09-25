@@ -46,7 +46,7 @@ no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 
 `HTML` `CSS`
 
-**[→ Leer más](#)**
+**[→ Leer más](https://luar2604.github.io/luar.github.io/)**
 
 </td>
 <td width="50%" valign="top">
@@ -57,16 +57,11 @@ no me quita las ganas: cada proyecto es una excusa para aprender algo nuevo.
 
 `HTML` `CSS`
 
-**[→ Leer más](https://github.com/luar2604/morat-fan-web)**
+**[→ Leer más](https://luar2604.github.io/morat-fan-web/)**
 
 </td>
 </tr>
 </table>
-
-<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
-
-<br>
-
 ## HABILIDADES TÉCNICAS —  Mi caja de herramientas
 
 <details>
